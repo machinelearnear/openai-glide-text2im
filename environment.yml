@@ -1,0 +1,13 @@
+# To use:
+#   $ conda env create -f environment.yml
+#   $ conda activate demo
+name: machinelearnear-glide-text2im
+dependencies:
+  - python=3.9
+  - pip
+  - nb_conda_kernels
+  - ipykernel
+  - gh
+  - pip:
+    - git+https://github.com/openai/glide-text2im
+    # - -r file:requirements.txt
