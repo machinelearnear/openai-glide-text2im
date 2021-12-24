@@ -3,11 +3,13 @@
 #   $ conda activate demo
 name: machinelearnear-glide-text2im
 dependencies:
-  - python=3.9
+  - python=3.7
   - pip
   - nb_conda_kernels
   - ipykernel
+  - ipywidgets
   - gh
   - pip:
     - git+https://github.com/openai/glide-text2im
+    - numpy
     # - -r file:requirements.txt
