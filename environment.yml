@@ -12,4 +12,5 @@ dependencies:
   - pip:
     - git+https://github.com/openai/glide-text2im
     - numpy
+    - PyYAML
     # - -r file:requirements.txt
