@@ -8,6 +8,9 @@ For more information, please see the original repo here: https://github.com/open
 ![Figure-2](image-2.jpeg)
 ![Figure-3](image-3.jpeg)
 
+## Watch YouTube Explainer Video
+[![#02] GLIDE: Generá y editá imágenes en segundos en base a lo que escribis (+ Repo)](https://img.youtube.com/vi/WG20CnktPbk/0.jpg)](https://www.youtube.com/watch?v=WG20CnktPbk)
+
 ## How to run
 
  * The [text2im](notebooks/text2im.ipynb) [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/machinelearnear/openai-glide-text2im/blob/main/text2im.ipynb) notebook shows how to use GLIDE (filtered) with classifier-free guidance to produce images conditioned on text prompts. 
