@@ -9,7 +9,7 @@ For more information, please see the original repo here: https://github.com/open
 ![Figure-3](image-3.jpeg)
 
 ## Watch YouTube Explainer Video
-[![#02] GLIDE: Generá y editá imágenes en segundos en base a lo que escribis (+ Repo)](https://img.youtube.com/vi/WG20CnktPbk/0.jpg)](https://www.youtube.com/watch?v=WG20CnktPbk)
+[![GLIDE: Generá y editá imágenes en segundos en base a lo que escribis (+ Repo)](https://img.youtube.com/vi/WG20CnktPbk/0.jpg)](https://www.youtube.com/watch?v=WG20CnktPbk)
 
 ## How to run
 
